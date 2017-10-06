@@ -1,0 +1,15 @@
+{
+  "name": "after8-bot",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/bot"
+  },
+  "dependencies": {
+    "chrono-node": "^1.3.5",
+    "discord.js": "^11.2.1",
+    "dotenv": "^4.0.0",
+    "node-rest-client": "^3.1.0",
+    "winston-loggly-bulk": "^2.0.1"
+  }
+}
